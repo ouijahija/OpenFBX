@@ -1,3 +1,7 @@
+#Folders
+[Bb]in/
+[Bb]in-int/
+
 # Prerequisites
 *.d
 
